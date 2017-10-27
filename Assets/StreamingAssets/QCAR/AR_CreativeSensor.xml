@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Master" size="10.000000 9.055605" />
+    <ImageTarget name="Stickers1" size="10.000000 9.055605" />
+    <ImageTarget name="cover1" size="1.000000 1.307449" />
+    <ImageTarget name="2k_earth_daymap" size="1.000000 0.648585" />
+    <ImageTarget name="camello-1" size="1.000000 1.294118" />
+    <ImageTarget name="6-1" size="1.000000 1.294118" />
+    <ImageTarget name="3" size="1.000000 1.294118" />
+  </Tracking>
+</QCARConfig>

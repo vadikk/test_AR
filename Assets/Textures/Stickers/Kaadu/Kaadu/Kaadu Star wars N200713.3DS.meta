@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 37d0561065d809d428054bc27390c65a
+timeCreated: 1497686612
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bedroll01
+    100002: bridlcontr
+    100004: bridle03
+    100006: bridlestra
+    100008: feather
+    100010: feather01
+    100012: feather02
+    100014: gungan01
+    100016: jareye
+    100018: jareye01
+    100020: //RootNode
+    100022: kaaduside0
+    100024: kaaeye
+    100026: kaaeye01
+    100028: lowsaddle0
+    100030: saddle
+    100032: saddleblan
+    100034: saddlestr0
+    100036: sadstrap
+    100038: spear
+    100040: sturup
+    100042: sturup01
+    100044: Torus01
+    100046: Torus02
+    100048: Torus03
+    100050: Torus04
+    100052: Torus05
+    100054: Torus06
+    100056: Torus07
+    100058: Torus08
+    100060: vest
+    400000: bedroll01
+    400002: bridlcontr
+    400004: bridle03
+    400006: bridlestra
+    400008: feather
+    400010: feather01
+    400012: feather02
+    400014: gungan01
+    400016: jareye
+    400018: jareye01
+    400020: //RootNode
+    400022: kaaduside0
+    400024: kaaeye
+    400026: kaaeye01
+    400028: lowsaddle0
+    400030: saddle
+    400032: saddleblan
+    400034: saddlestr0
+    400036: sadstrap
+    400038: spear
+    400040: sturup
+    400042: sturup01
+    400044: Torus01
+    400046: Torus02
+    400048: Torus03
+    400050: Torus04
+    400052: Torus05
+    400054: Torus06
+    400056: Torus07
+    400058: Torus08
+    400060: vest
+    2300000: bedroll01
+    2300002: bridlcontr
+    2300004: bridle03
+    2300006: bridlestra
+    2300008: feather
+    2300010: feather01
+    2300012: feather02
+    2300014: gungan01
+    2300016: jareye
+    2300018: jareye01
+    2300020: kaaduside0
+    2300022: kaaeye
+    2300024: kaaeye01
+    2300026: lowsaddle0
+    2300028: saddle
+    2300030: saddleblan
+    2300032: saddlestr0
+    2300034: sadstrap
+    2300036: spear
+    2300038: sturup
+    2300040: sturup01
+    2300042: Torus01
+    2300044: Torus02
+    2300046: Torus03
+    2300048: Torus04
+    2300050: Torus05
+    2300052: Torus06
+    2300054: Torus07
+    2300056: Torus08
+    2300058: vest
+    3300000: bedroll01
+    3300002: bridlcontr
+    3300004: bridle03
+    3300006: bridlestra
+    3300008: feather
+    3300010: feather01
+    3300012: feather02
+    3300014: gungan01
+    3300016: jareye
+    3300018: jareye01
+    3300020: kaaduside0
+    3300022: kaaeye
+    3300024: kaaeye01
+    3300026: lowsaddle0
+    3300028: saddle
+    3300030: saddleblan
+    3300032: saddlestr0
+    3300034: sadstrap
+    3300036: spear
+    3300038: sturup
+    3300040: sturup01
+    3300042: Torus01
+    3300044: Torus02
+    3300046: Torus03
+    3300048: Torus04
+    3300050: Torus05
+    3300052: Torus06
+    3300054: Torus07
+    3300056: Torus08
+    3300058: vest
+    4300000: sturup
+    4300002: sturup01
+    4300004: bedroll01
+    4300006: bridlcontr
+    4300008: bridle03
+    4300010: bridlestra
+    4300012: feather
+    4300014: feather01
+    4300016: feather02
+    4300018: gungan01
+    4300020: vest
+    4300022: jareye01
+    4300024: jareye
+    4300026: kaaduside0
+    4300028: kaaeye
+    4300030: kaaeye01
+    4300032: lowsaddle0
+    4300034: saddle
+    4300036: saddleblan
+    4300038: saddlestr0
+    4300040: sadstrap
+    4300042: spear
+    4300044: Torus01
+    4300046: Torus02
+    4300048: Torus03
+    4300050: Torus04
+    4300052: Torus05
+    4300054: Torus06
+    4300056: Torus07
+    4300058: Torus08
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
